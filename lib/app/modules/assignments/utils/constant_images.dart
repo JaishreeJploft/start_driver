@@ -1,0 +1,63 @@
+class StarImages {
+  static String logo = 'assets/images/logo.svg';
+  static String usaFlag = 'assets/images/unitedstateFlag.svg';
+  static String uaeFlag = 'assets/images/uaeFlaf.svg';
+  static String thumbIcon = 'assets/images/thumb.svg';
+  static String faceIcon = 'assets/images/face-scan.svg';
+}
+
+class StarIcons {
+  static const reasonIcon = 'assets/images/report.svg';
+  static const studentIcon = 'assets/icon/student.svg';
+  static String tickIcon = 'assets/images/tick.svg';
+  static String tick2Icon = 'assets/images/tick2.svg';
+  static String teacherIcon = 'assets/images/teacherIcon.svg';
+  static String adminIcon = 'assets/images/adminIcon.svg';
+  static String driverIcon = 'assets/images/driverIcon.svg';
+  static String securityIcon = 'assets/images/securityIcon.svg';
+  static String shopIcon = 'assets/images/shopIcon.svg';
+  static String nurseIcon = 'assets/images/nurseIcon.svg';
+  static String backArrowIcon = 'assets/images/backarrow.svg';
+  static String checkBoxIcon = 'assets/images/checkBox.svg';
+  static String checkBoxUnfilledIcon = 'assets/images/checkBoxUnfilled.svg';
+  static String drawerIcon = 'assets/images/drawerIcon.svg';
+  static String sosIcon = 'assets/images/SOSIcon.svg';
+  static String notificationIcon = 'assets/images/notification.svg';
+  static String drawerLogo = 'assets/images/drawerLogo.svg';
+  static String tiltedArrow = 'assets/images/tiltedArrow.svg';
+  static String forwardArrow = 'assets/images/forwardArrow.svg';
+  static String upArrow = 'assets/images/upArrow.svg';
+  static String downArrow = 'assets/images/downArrow.svg';
+  static String closeIcon = 'assets/images/closeIcon.svg';
+  static String dashboardGatePass = 'assets/images/dashboardGatePass.svg';
+  static String dashboardSearch = 'assets/images/dashboardSearchIcon.svg';
+  static String dashboardHome = 'assets/images/dashboardHomeIcon.svg';
+  static String dashboardChats = 'assets/images/dashboardChatIcon.svg';
+  static String dashboardAccounts = 'assets/images/dashboardProfileIcon.svg';
+  static String gateIcon = 'assets/images/gateIcon.svg';
+  static String gatepassIcon = 'assets/images/gatePassIcon.svg';
+  static String recordIcon = 'assets/images/recordsIcon.svg';
+  static String barCode = 'assets/images/barcode.svg';
+  static String profileIcon = 'assets/images/profileMen.svg';
+  static String arrowForward = 'assets/images/arrowForward.svg';
+  static String jobTitleIcon = 'assets/images/jobTitleIcon.svg';
+  static String eyeIcon = 'assets/images/eyeIcon.svg';
+  static String downloadIcon = 'assets/images/downloadingIcon.svg';
+  static String closeIconBlack = 'assets/images/crossIcon.svg';
+  static String pdfIcon = 'assets/images/pdfIcon.svg';
+  static String addIcon = 'assets/images/addIcon.svg';
+  static String editIcon = 'assets/images/editIcon.svg';
+  static String deleteIcon = 'assets/images/deleteIcon.svg';
+  static String calenderIcon = 'assets/images/calenderIcon.svg';
+  static String uplaodIcon = 'assets/images/upload_icon.svg';
+  static String downArrowBlack = 'assets/images/downArrowBlack.svg';
+  static String mapLocationIcon = 'assets/images/mapLocationIcon.svg';
+  static String pasteIcon = 'assets/images/pasteIcon.svg';
+  static String calenderYellowIcon = 'assets/images/calenderYellow.svg';
+  static String calenderBoldIcon = 'assets/images/calenderBold.svg';
+  static String profileIcon2 = 'assets/images/businessman.svg';
+  static String imageUploadIcon = 'assets/images/uploadIcon.svg';
+  static String uploadYelloIcon = 'assets/images/upload_icon_yellow.svg';
+  static String groupIcon = 'assets/icon/group.svg';
+  static String fileIcon = 'assets/icon/file.svg';
+}
